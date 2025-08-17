@@ -3,10 +3,10 @@
     <div class="container mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-16">
         <h2 class="text-3xl md:text-4xl font-bold mb-4">
-          Our 4-Step Deployment Process
+          Our 4-Step Agent Deployment Process
         </h2>
         <p class="text-xl text-muted-foreground max-w-3xl mx-auto">
-          From concept to production in weeks, not months
+          From concept to production-grade agentic AI in weeks, not months
         </p>
       </div>
 
@@ -41,7 +41,7 @@
             Total Timeline: 2-4 weeks
           </h3>
           <p class="text-gray-600">
-            Compare to 6-18 months for custom development
+            Compare to 6-18 months for custom agentic AI development
           </p>
         </div>
       </div>
@@ -52,23 +52,23 @@
 <script setup>
 const steps = [
   {
-    title: 'Discovery & Demo',
-    description: 'We show you working solutions, understand your specific requirements, and identify the best template match for your needs.',
+    title: 'Discovery & Agent Demo',
+    description: 'We show you working agentic AI solutions, understand your specific enterprise requirements, and identify the best agent deployment match for your business scenario.',
     timeline: '1-2 days'
   },
   {
-    title: 'Rapid Prototype',
-    description: 'We customize the template with your business logic and sample data, creating a working prototype you can test immediately.',
+    title: 'Rapid Agent Prototype',
+    description: 'We customize our proven agent framework with your business logic and sample data, creating a working agentic AI prototype you can test immediately.',
     timeline: '2-5 days'
   },
   {
-    title: 'Data Integration',
-    description: 'Connect to your existing systems, import your data, configure security and compliance settings for your organization.',
+    title: 'Enterprise Integration',
+    description: 'Connect agents to your existing systems, import your data, configure enterprise security, GDPR compliance, and robust monitoring for your organization.',
     timeline: '1-2 weeks'
   },
   {
-    title: 'Production Launch',
-    description: 'Deploy to your Microsoft Azure environment with full monitoring, backup, and support. Train your team and go live.',
+    title: 'Agent Production Launch',
+    description: 'Deploy your agentic AI system to Microsoft Azure with full monitoring, backup, testing validation, and enterprise support. Train your team and go live.',
     timeline: '3-7 days'
   }
 ]

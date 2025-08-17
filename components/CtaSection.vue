@@ -8,18 +8,18 @@
     <div class="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
       <div class="text-center max-w-4xl mx-auto">
         <h2 class="text-3xl md:text-4xl font-bold mb-6">
-          Ready to Transform Your Business?
+          Ready to Transform Your Business with Agentic AI?
         </h2>
         <p class="text-xl text-blue-100 mb-8 max-w-3xl mx-auto">
-          Book a 30-minute demo and see exactly how these solutions can automate your business processes.
+          Book a 30-minute demo and see exactly how our proven agentic AI solutions can automate your enterprise processes.
         </p>
         
         <!-- Benefits grid -->
         <div class="grid md:grid-cols-3 gap-6 mb-12">
           <div class="text-center">
             <Icon name="heroicons:eye" class="w-8 h-8 mx-auto mb-3 text-yellow-400" />
-            <div class="font-semibold">See Live Demos</div>
-            <div class="text-sm text-blue-200">Working solutions with real data</div>
+            <div class="font-semibold">See Live Agent Demos</div>
+            <div class="text-sm text-blue-200">Working agentic AI with real data</div>
           </div>
           <div class="text-center">
             <Icon name="heroicons:calculator" class="w-8 h-8 mx-auto mb-3 text-green-400" />
@@ -28,8 +28,8 @@
           </div>
           <div class="text-center">
             <Icon name="heroicons:clock" class="w-8 h-8 mx-auto mb-3 text-purple-400" />
-            <div class="font-semibold">Get Timeline</div>
-            <div class="text-sm text-blue-200">Realistic deployment schedule</div>
+            <div class="font-semibold">Get Agent Timeline</div>
+            <div class="text-sm text-blue-200">Realistic agent deployment schedule</div>
           </div>
         </div>
 
@@ -47,7 +47,7 @@
 
         <!-- No pressure message -->
         <p class="text-blue-200 text-sm">
-          No technical knowledge required. We'll show you working solutions, then build yours.
+          No technical knowledge required. We'll show you working agentic AI solutions, then customize and deliver for your specific business scenario.
         </p>
       </div>
     </div>

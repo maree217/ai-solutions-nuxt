@@ -6,7 +6,7 @@
           Client Success Stories
         </h2>
         <p class="text-xl text-muted-foreground">
-          Real results from enterprise deployments
+          Real results from enterprise agentic AI deployments
         </p>
       </div>
 
@@ -46,21 +46,21 @@
 <script setup>
 const testimonials = [
   {
-    quote: "We went from 8 weeks of manual coordination to 3 weeks of automated workflow. The AI handles all the interdependencies we used to miss.",
+    quote: "We went from 8 weeks of manual coordination to 3 weeks of automated agentic workflow. The intelligent agents handle all the interdependencies we used to miss.",
     author: "Sarah Johnson",
     role: "Operations Director",
     company: "Regional Bank",
     impact: "60% reduction in project timeline"
   },
   {
-    quote: "48 hours from demo to working prototype with our actual data. Our loan processing is now 80% faster with 95% fewer errors.",
+    quote: "48 hours from agent demo to working prototype with our actual data. Our agentic AI loan processing is now 80% faster with 95% fewer errors.",
     author: "Michael Chen",
     role: "Head of Digital Transformation",
     company: "Financial Services Corp",
     impact: "80% faster processing, 95% fewer errors"
   },
   {
-    quote: "The multi-agent system eliminated our coordination meetings. Everything just flows automatically now.",
+    quote: "The multi-agent orchestration system eliminated our coordination meetings. Everything just flows through intelligent agent coordination now.",
     author: "Emma Williams",
     role: "Project Manager",
     company: "Manufacturing Company",

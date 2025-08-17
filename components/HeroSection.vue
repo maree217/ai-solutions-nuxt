@@ -13,21 +13,21 @@
         <!-- Badge -->
         <div class="inline-flex items-center px-4 py-2 rounded-full glass-effect text-sm font-medium mb-8 animate-fade-in">
           <Icon name="heroicons:sparkles" class="w-4 h-4 mr-2" />
-          Production-Ready AI Automation
+          Enterprise-Grade Agentic AI
         </div>
 
         <!-- Main Heading -->
         <h1 class="text-4xl md:text-6xl font-bold mb-6 animate-slide-up">
           Transform Your Business with
           <span class="bg-gradient-to-r from-yellow-400 to-orange-500 bg-clip-text text-transparent">
-            AI Automation
+            Agentic AI Automation
           </span>
         </h1>
 
         <!-- Subtitle -->
         <p class="text-xl md:text-2xl text-blue-100 mb-8 max-w-3xl mx-auto animate-slide-up" style="animation-delay: 0.2s;">
-          Deploy production-grade multi-agent automation in <strong>days, not months</strong>. 
-          Built on Microsoft's proven enterprise framework.
+          Deploy production-grade <strong>multi-agent orchestration</strong> in <strong>days, not months</strong>. 
+          Mature, robust deployments proven across FTSE 100 and Fortune 500 enterprises.
         </p>
 
         <!-- Promise Cards -->
@@ -61,23 +61,9 @@
           </NuxtLink>
         </div>
 
-        <!-- Social Proof -->
+        <!-- Trust Indicators -->
         <div class="mt-16 animate-fade-in" style="animation-delay: 0.8s;">
-          <p class="text-blue-200 text-sm mb-6">Trusted by enterprise teams worldwide</p>
-          <div class="flex justify-center items-center space-x-8 opacity-60">
-            <div class="flex items-center space-x-2">
-              <Icon name="simple-icons:microsoft" class="w-6 h-6" />
-              <span class="text-sm font-medium">Microsoft Partner</span>
-            </div>
-            <div class="flex items-center space-x-2">
-              <Icon name="heroicons:shield-check" class="w-6 h-6" />
-              <span class="text-sm font-medium">SOC2 Compliant</span>
-            </div>
-            <div class="flex items-center space-x-2">
-              <Icon name="heroicons:globe-alt" class="w-6 h-6" />
-              <span class="text-sm font-medium">Global Deployment</span>
-            </div>
-          </div>
+          <TrustIndicators />
         </div>
       </div>
     </div>

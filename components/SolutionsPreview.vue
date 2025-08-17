@@ -3,10 +3,10 @@
     <div class="container mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-16">
         <h2 class="text-3xl md:text-4xl font-bold mb-4">
-          Featured Enterprise Solutions
+          Featured Enterprise Agent Solutions
         </h2>
         <p class="text-xl text-muted-foreground max-w-3xl mx-auto">
-          Production-ready templates that solve real business challenges
+          Mature agentic AI solutions deployed across large to medium enterprises
         </p>
       </div>
 
@@ -66,7 +66,7 @@
       <div class="text-center">
         <NuxtLink to="/solutions" class="btn btn-primary btn-lg">
           <Icon name="heroicons:squares-2x2" class="w-5 h-5 mr-2" />
-          View All 10 Solutions
+          View All Agent Solutions
         </NuxtLink>
       </div>
     </div>
@@ -76,9 +76,9 @@
 <script setup>
 const featuredSolutions = [
   {
-    title: 'Cross-Department Task Orchestrator',
-    category: 'Workflow Automation',
-    description: 'AI agents coordinate planning, execution, and validation across interdependent teams via shared state management.',
+    title: 'Cross-Department Agent Orchestrator',
+    category: 'Multi-Agent Workflow',
+    description: 'Intelligent agents coordinate planning, execution, and validation across interdependent teams via shared state management and agentic workflows.',
     businessValue: '60% faster project completion, zero missed dependencies',
     deployTime: '3-5 days',
     useCase: 'Project Management',
@@ -86,9 +86,9 @@ const featuredSolutions = [
     href: '/demos/task-orchestrator'
   },
   {
-    title: 'GPT-RAG Agent Orchestrator',
-    category: 'Knowledge Retrieval',
-    description: 'Coordinates retrieval, summarization, and reasoning agents to answer complex queries using your company knowledge.',
+    title: 'Multi-Agent RAG Orchestrator',
+    category: 'Intelligent Knowledge Agents',
+    description: 'Coordinates specialized retrieval, summarization, and reasoning agents to answer complex queries using your enterprise knowledge base.',
     businessValue: '90% reduction in research time, instant expert knowledge',
     deployTime: '1-2 days',
     useCase: 'Customer Support',
@@ -96,9 +96,9 @@ const featuredSolutions = [
     href: '/solutions#rag-orchestrator'
   },
   {
-    title: 'Multi-Model Agent',
-    category: 'Data Visualization',
-    description: 'Orchestrates textual reasoning and generates visual output (charts, diagrams, reports) in one seamless workflow.',
+    title: 'Multi-Modal Agent System',
+    category: 'Agentic Data Processing',
+    description: 'Orchestrates textual reasoning agents and visual generation agents to produce charts, diagrams, and reports in one seamless agentic workflow.',
     businessValue: 'Automated report generation, self-updating dashboards',
     deployTime: '3-5 days',
     useCase: 'Executive Reporting',
@@ -108,7 +108,7 @@ const featuredSolutions = [
 ]
 
 const stats = [
-  { value: '10', label: 'Production Templates' },
+  { value: '10', label: 'Proven Agent Deployments' },
   { value: '2-4', label: 'Weeks to Deploy' },
   { value: '60%', label: 'Faster Delivery' },
   { value: '500%', label: 'Average ROI' }

@@ -6,7 +6,7 @@
           Why Choose Our AI Solutions?
         </h2>
         <p class="text-xl text-muted-foreground max-w-3xl mx-auto">
-          Deploy enterprise-grade AI automation without the enterprise-grade development timeline
+          Deploy enterprise-grade agentic AI solutions with enterprise-level compliance, monitoring, and robust testing
         </p>
       </div>
 
@@ -79,8 +79,8 @@
 <script setup>
 const features = [
   {
-    title: 'Rapid Deployment',
-    description: 'Deploy production-grade AI solutions in days, not months. Our templates are based on Microsoft\'s Multi-Agent Custom Automation Engine - proven, tested, ready to customize.',
+    title: 'Rapid Agent Deployment',
+    description: 'Deploy production-grade agentic AI solutions in days, not months. Our mature agent orchestration framework is built on Microsoft\'s Multi-Agent Custom Automation Engine - proven across enterprise.',
     icon: 'heroicons:rocket-launch',
     metric: {
       icon: 'heroicons:clock',
@@ -88,17 +88,17 @@ const features = [
     }
   },
   {
-    title: 'Enterprise Security',
-    description: 'Built on Azure AI Foundry with enterprise-grade security, compliance frameworks, and Microsoft ecosystem integration from day one.',
+    title: 'Enterprise Security & Compliance',
+    description: 'Built on Azure AI Agent Framework with enterprise-grade security, GDPR compliance, continuous monitoring, and Microsoft ecosystem integration from day one.',
     icon: 'heroicons:shield-check',
     metric: {
       icon: 'heroicons:check-circle',
-      value: 'SOC2 + ISO27001'
+      value: 'GDPR + SOC2 + ISO27001'
     }
   },
   {
-    title: 'Business-Focused',
-    description: 'Each solution delivers measurable business value - 60% faster processes, 90% reduction in manual overhead, zero missed dependencies.',
+    title: 'Agent-Driven Business Value',
+    description: 'Each agentic AI deployment delivers measurable business value - 60% faster processes, 90% reduction in manual overhead, intelligent agent coordination.',
     icon: 'heroicons:chart-bar',
     metric: {
       icon: 'heroicons:arrow-trending-up',
@@ -106,12 +106,12 @@ const features = [
     }
   },
   {
-    title: 'Proven Templates',
-    description: '10 production-ready templates covering the most common enterprise automation needs - from task orchestration to document processing.',
+    title: 'Proven Agent Deployments',
+    description: 'Mature, robust agentic AI deployments proven across FTSE 100 and Fortune 500 enterprises - from multi-agent task orchestration to intelligent document processing.',
     icon: 'heroicons:puzzle-piece',
     metric: {
       icon: 'heroicons:check-badge',
-      value: '10 Ready Templates'
+      value: '10 Proven Deployments'
     }
   }
 ]
@@ -125,18 +125,18 @@ const frameworkLayers = [
     status: '✓ Enterprise Ready'
   },
   {
-    name: 'Semantic Kernel',
+    name: 'Semantic Kernel Agents',
     icon: 'heroicons:cpu-chip',
     iconColor: 'text-purple-600',
     color: 'border-purple-500',
-    status: '✓ Multi-Agent'
+    status: '✓ Agent Orchestration'
   },
   {
-    name: 'MACAE Platform',
+    name: 'MACAE Agent Platform',
     icon: 'heroicons:cog-6-tooth',
     iconColor: 'text-green-600',
     color: 'border-green-500',
-    status: '✓ Production Tested'
+    status: '✓ Enterprise Tested'
   },
   {
     name: 'Container Apps',
