@@ -10,6 +10,14 @@
 </template>
 
 <script setup>
+// Manual imports to fix auto-import issues
+import HeroSection from '~/components/HeroSection.vue'
+import FeaturesSection from '~/components/FeaturesSection.vue'
+import SolutionsPreview from '~/components/SolutionsPreview.vue'
+import ProcessSection from '~/components/ProcessSection.vue'
+import TestimonialsSection from '~/components/TestimonialsSection.vue'
+import CtaSection from '~/components/CtaSection.vue'
+
 // SEO
 useSeoMeta({
   title: 'Enterprise AI Solutions - Production-Ready Automation',
