@@ -12,21 +12,21 @@
 
       <div class="grid lg:grid-cols-3 gap-8 mb-12">
         <div v-for="solution in featuredSolutions" :key="solution.title" 
-             class="card p-6 card-hover group cursor-pointer"
+             class="card p-6 card-hover group cursor-pointer flex flex-col h-full"
              @click="navigateTo(solution.href)">
-          <div class="flex items-center mb-4">
-            <div class="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center mr-4">
+          <div class="flex items-start mb-4">
+            <div class="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center mr-4 flex-shrink-0">
               <Icon :name="solution.icon" class="w-6 h-6 text-primary" />
             </div>
-            <div>
-              <h3 class="text-lg font-semibold group-hover:text-primary transition-colors">
+            <div class="flex-grow">
+              <h3 class="text-lg font-semibold group-hover:text-primary transition-colors leading-tight">
                 {{ solution.title }}
               </h3>
               <span class="text-sm text-muted-foreground">{{ solution.category }}</span>
             </div>
           </div>
           
-          <p class="text-muted-foreground mb-4">{{ solution.description }}</p>
+          <p class="text-muted-foreground mb-4 flex-grow">{{ solution.description }}</p>
           
           <div class="space-y-3 mb-6">
             <div class="bg-green-50 border border-green-200 rounded-lg p-3">
@@ -42,7 +42,7 @@
             </div>
           </div>
           
-          <div class="flex space-x-2">
+          <div class="flex space-x-2 mt-auto">
             <button class="btn btn-primary btn-sm flex-1">
               <Icon name="heroicons:play" class="w-4 h-4 mr-1" />
               Live Demo
