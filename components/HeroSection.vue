@@ -28,7 +28,7 @@
         </div>
 
         <!-- Subtitle -->
-        <p class="text-xl md:text-2xl text-blue-100 mb-8 max-w-3xl mx-auto animate-slide-up" style="animation-delay: 0.2s;">
+        <p class="text-lg md:text-xl text-blue-100 mb-8 max-w-3xl mx-auto animate-slide-up" style="animation-delay: 0.2s;">
           As a <strong>Microsoft-supported business</strong>, we use proven frameworks from the <strong>Microsoft Accelerator program</strong> to deploy secure, enterprise-ready AI solutions on your Azure infrastructure. Eliminate development risk and see a working prototype with your data in <strong>48 hours</strong>.
         </p>
 

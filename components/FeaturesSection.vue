@@ -79,21 +79,12 @@
 <script setup>
 const features = [
   {
-    title: 'Rapid Agent Deployment',
-    description: 'Deploy production-grade agentic AI solutions in days, not months. Our mature agent orchestration framework is built on Microsoft\'s Multi-Agent Custom Automation Engine - proven across enterprise.',
-    icon: 'heroicons:rocket-launch',
-    metric: {
-      icon: 'heroicons:clock',
-      value: '85% faster delivery'
-    }
-  },
-  {
     title: 'Enterprise Security & Compliance',
     description: 'Built on Azure AI Agent Framework with enterprise-grade security, GDPR compliance, continuous monitoring, and Microsoft ecosystem integration from day one.',
     icon: 'heroicons:shield-check',
     metric: {
       icon: 'heroicons:check-circle',
-      value: 'GDPR + SOC2 + ISO27001'
+      value: 'GDPR + ISO27001'
     }
   },
   {
@@ -113,15 +104,6 @@ const features = [
       icon: 'heroicons:rocket-launch',
       value: 'Accelerator Vetted'
     }
-  },
-  {
-    title: 'Proven Agent Deployments',
-    description: 'Mature, robust agentic AI deployments proven across FTSE 100 and Fortune 500 enterprises - from multi-agent task orchestration to intelligent document processing.',
-    icon: 'heroicons:puzzle-piece',
-    metric: {
-      icon: 'heroicons:check-badge',
-      value: '10 Proven Deployments'
-    }
   }
 ]
 
@@ -134,18 +116,18 @@ const frameworkLayers = [
     status: '✓ Enterprise Ready'
   },
   {
-    name: 'Semantic Kernel Agents',
-    icon: 'heroicons:cpu-chip',
+    name: 'Microsoft Copilot',
+    icon: 'simple-icons:microsoft',
     iconColor: 'text-purple-600',
     color: 'border-purple-500',
-    status: '✓ Agent Orchestration'
+    status: '✓ AI Assistant'
   },
   {
-    name: 'MACAE Agent Platform',
-    icon: 'heroicons:cog-6-tooth',
+    name: 'Semantic Kernel',
+    icon: 'heroicons:cpu-chip',
     iconColor: 'text-green-600',
     color: 'border-green-500',
-    status: '✓ Enterprise Tested'
+    status: '✓ Agent Orchestration'
   },
   {
     name: 'Container Apps',
