@@ -27,10 +27,6 @@
           Powered by Microsoft Azure and Copilot.
         </div>
 
-        <!-- Subtitle -->
-        <p class="text-base md:text-lg text-blue-100 mb-8 max-w-3xl mx-auto animate-slide-up" style="animation-delay: 0.2s;">
-          As a <strong>Microsoft-supported business</strong>, we use proven frameworks from the <strong>Microsoft Accelerator program</strong> to deploy secure, enterprise-ready AI solutions on your Azure infrastructure. Eliminate development risk and see a working prototype with your data in <strong>48 hours</strong>.
-        </p>
 
         <!-- Promise Cards -->
         <div class="grid md:grid-cols-3 gap-6 mb-12 max-w-4xl mx-auto animate-slide-up" style="animation-delay: 0.4s;">
