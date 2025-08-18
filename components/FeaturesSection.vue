@@ -117,7 +117,7 @@ const frameworkLayers = [
   },
   {
     name: 'Microsoft Copilot',
-    icon: 'simple-icons:microsoft',
+    icon: 'heroicons:sparkles',
     iconColor: 'text-purple-600',
     color: 'border-purple-500',
     status: '✓ AI Assistant'
