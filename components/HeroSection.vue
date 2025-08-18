@@ -18,16 +18,18 @@
 
         <!-- Main Heading -->
         <h1 class="text-4xl md:text-6xl font-bold mb-6 animate-slide-up">
-          Transform Your Business with
           <span class="bg-gradient-to-r from-yellow-400 to-orange-500 bg-clip-text text-transparent">
-            Agentic AI Automation
+            Enterprise-Grade AI
           </span>
+          in Weeks, Not Months.
         </h1>
+        <div class="text-2xl md:text-3xl font-semibold mb-6 text-blue-100">
+          Powered by Microsoft Azure and Copilot.
+        </div>
 
         <!-- Subtitle -->
         <p class="text-xl md:text-2xl text-blue-100 mb-8 max-w-3xl mx-auto animate-slide-up" style="animation-delay: 0.2s;">
-          Deploy production-grade <strong>multi-agent orchestration</strong> in <strong>days, not months</strong>. 
-          Mature, robust deployments proven across FTSE 100 and Fortune 500 enterprises.
+          As a <strong>Microsoft-supported business</strong>, we use proven frameworks from the <strong>Microsoft Accelerator program</strong> to deploy secure, enterprise-ready AI solutions on your Azure infrastructure. Eliminate development risk and see a working prototype with your data in <strong>48 hours</strong>.
         </p>
 
         <!-- Promise Cards -->

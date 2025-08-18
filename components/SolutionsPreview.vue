@@ -76,7 +76,7 @@
 <script setup>
 const featuredSolutions = [
   {
-    title: 'Cross-Department Agent Orchestrator',
+    title: 'Automated Project & Workflow Coordination',
     category: 'Multi-Agent Workflow',
     description: 'Intelligent agents coordinate planning, execution, and validation across interdependent teams via shared state management and agentic workflows.',
     businessValue: '60% faster project completion, zero missed dependencies',
@@ -86,7 +86,7 @@ const featuredSolutions = [
     href: '/demos/task-orchestrator'
   },
   {
-    title: 'Multi-Agent RAG Orchestrator',
+    title: 'Instant Knowledge Expert',
     category: 'Intelligent Knowledge Agents',
     description: 'Coordinates specialized retrieval, summarization, and reasoning agents to answer complex queries using your enterprise knowledge base.',
     businessValue: '90% reduction in research time, instant expert knowledge',
@@ -96,7 +96,7 @@ const featuredSolutions = [
     href: '/solutions#rag-orchestrator'
   },
   {
-    title: 'Multi-Modal Agent System',
+    title: 'Intelligent Reporting & Dashboards',
     category: 'Agentic Data Processing',
     description: 'Orchestrates textual reasoning agents and visual generation agents to produce charts, diagrams, and reports in one seamless agentic workflow.',
     businessValue: 'Automated report generation, self-updating dashboards',

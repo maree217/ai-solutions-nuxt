@@ -106,6 +106,15 @@ const features = [
     }
   },
   {
+    title: 'Microsoft Accelerator Partner',
+    description: 'Our solutions are built on mature, proven approaches vetted by the Microsoft Accelerator program. This gives you exclusive access to pre-built, robust AI templates that radically accelerate your time-to-value and ensure success.',
+    icon: 'simple-icons:microsoft',
+    metric: {
+      icon: 'heroicons:rocket-launch',
+      value: 'Accelerator Vetted'
+    }
+  },
+  {
     title: 'Proven Agent Deployments',
     description: 'Mature, robust agentic AI deployments proven across FTSE 100 and Fortune 500 enterprises - from multi-agent task orchestration to intelligent document processing.',
     icon: 'heroicons:puzzle-piece',

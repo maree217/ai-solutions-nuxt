@@ -24,11 +24,6 @@
           <span class="text-white text-sm font-medium">GDPR Compliant</span>
         </div>
         
-        <!-- SOC2 -->
-        <div class="flex items-center space-x-2 bg-white/10 backdrop-blur-sm rounded-lg px-4 py-2">
-          <Icon name="heroicons:check-badge" class="w-6 h-6 text-blue-400" />
-          <span class="text-white text-sm font-medium">SOC2 Compliant</span>
-        </div>
         
         <!-- ISO 27001 -->
         <div class="flex items-center space-x-2 bg-white/10 backdrop-blur-sm rounded-lg px-4 py-2">

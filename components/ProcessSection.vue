@@ -58,7 +58,7 @@ const steps = [
   },
   {
     title: 'Rapid Agent Prototype',
-    description: 'We customize our proven agent framework with your business logic and sample data, creating a working agentic AI prototype you can test immediately.',
+    description: 'We customize one of our proven, Microsoft-vetted solution templates with your business logic and sample data, creating a working agentic AI prototype you can test immediately.',
     timeline: '2-5 days'
   },
   {
